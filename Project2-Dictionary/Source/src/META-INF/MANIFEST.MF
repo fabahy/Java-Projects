@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Class-Path: ./ ../../Libs/jcalendar-1.4.jar jcalendar-1.4.jar ./src ../src
+Main-Class: App
